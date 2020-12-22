@@ -51,12 +51,15 @@ class Stack{
 
         }
     }
+    peek(){
+        return this.elements[this.elements.length-1]
+    }
 }
 
 
 /**
  * 
- * @@ METHODS Implemented with nodes in a linked structure
+ * @@ METHODS Implemented with nodes in a linked list 
  * push-- This operation adds an element at the top of a stack
  * pop-- This operation removes the topmost element of a stack
  * peek-- This operation returns the element at the top of the stack
