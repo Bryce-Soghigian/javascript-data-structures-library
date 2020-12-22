@@ -1,0 +1,23 @@
+{
+  "name": "javascript-data-structures-library",
+  "version": "1.0.0",
+  "description": "A data structures library that will allow you to create instances of data structures and use them in your nodejs applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bryce-Soghigian/javascript-data-structures-library.git"
+  },
+  "keywords": [
+    "data-structures",
+    "pine.systems"
+  ],
+  "author": "Bryce Avery Soghigian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bryce-Soghigian/javascript-data-structures-library/issues"
+  },
+  "homepage": "https://github.com/Bryce-Soghigian/javascript-data-structures-library#readme"
+}
