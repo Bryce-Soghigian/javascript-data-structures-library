@@ -13,17 +13,17 @@
 [] That documentation should include the time and space complexity of the methods
 ### Data structures to be implemented 
 
-[] SLL
-[] DLL
-[] BST
-[] Stack
-[] Queue
-[] MinHeap
-[] MaxHeap
-[] Trie
-[] N-ary Tree
-[] Undirected Graph
-[] Directed Graph
-[] Avl Tree
-[] red-black Tree
-[] aho-corasick trie
+- [] SLL
+- [] DLL
+- [] BST
+- [] Stack
+- [] Queue
+- [] MinHeap
+- [] MaxHeap
+- [] Trie
+- [] N-ary Tree
+- [] Undirected Graph
+- [] Directed Graph
+- [] Avl Tree
+- [] red-black Tree
+- [] aho-corasick trie
