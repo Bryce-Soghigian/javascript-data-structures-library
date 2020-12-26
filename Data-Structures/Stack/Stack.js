@@ -1,11 +1,11 @@
 /**
  * 
  * @@ METHODS Implemented with an array
- * push-- This operation adds an element at the top of a stack
- * pop-- This operation removes the topmost element of a stack
- * peek-- This operation returns the element at the top of the stack
- * isEmpty--This method returns a bool that returns true if empty else false
- * search(element)-- This method searches for a value in the stack and if it exists
+ * @Method {*} push-- This operation adds an element at the top of a stack
+ * @Method {*} pop-- This operation removes the topmost element of a stack
+ * @Method {*} peek-- This operation returns the element at the top of the stack
+ * @Method {*} isEmpty--This method returns a bool that returns true if empty else false
+ * @Method {*} search(element)-- This method searches for a value in the stack and if it exists
  */
 
 
