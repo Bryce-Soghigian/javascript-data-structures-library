@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Bryce-Soghigian/javascript-data-structures-library/issues"
   },
-  "homepage": "https://github.com/Bryce-Soghigian/javascript-data-structures-library#readme"
+  "homepage": "https://github.com/Bryce-Soghigian/javascript-data-structures-library#readme",
+  "dependencies": {
+    "jsdoc": "^3.6.6"
+  }
 }
